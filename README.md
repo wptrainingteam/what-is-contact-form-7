@@ -242,7 +242,7 @@ Note we have:
 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
 #### Using Tags
-Tags in Contact Form 7 allows you to design and customize your form. You can set a field to be a mandatory field, you can customize an input to a field to be a textbox or drop down list. Tags are 
+Tags in Contact Form 7 allows you to design and customize your form. You can set a field to be a mandatory field, you can customize an input to a field to be a textbox or drop down list. Tags are pre-defined keywords enclosed in square brackets ([ ]).
 
 #### Modifying HTML
 
@@ -348,7 +348,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI0ODU2NTEsLTE3MTk0NDE2NTQsLT
+eyJoaXN0b3J5IjpbLTE4NjA2NzQxNTksLTE3MTk0NDE2NTQsLT
 k1MTY0NjYxOCwyMzAyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4
 NzUsLTI0MzU4NTAwNCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC
 03MzE4NzMxNTddfQ==
