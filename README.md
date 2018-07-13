@@ -202,7 +202,7 @@ Note that order of those parts is important. Here is a list of all the tags that
 
 
 
-```Your Name (required)  
+Your Name (required)  
 
     [text* your-name]
 
@@ -222,7 +222,7 @@ Your Message
 
     [textarea your-message `40x2`]
 
-[submit "Send"]```
+[submit "Send"]
 
 Note we have:
 
@@ -337,6 +337,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEwMzg5NDMsLTI0MzU4NTAwNCwtMT
-c1OTIxNjI3MiwtOTc0NTk1Njk2LC03MzE4NzMxNTddfQ==
+eyJoaXN0b3J5IjpbNTA5Mjk2NjgzLC0yNDM1ODUwMDQsLTE3NT
+kyMTYyNzIsLTk3NDU5NTY5NiwtNzMxODczMTU3XX0=
 -->
