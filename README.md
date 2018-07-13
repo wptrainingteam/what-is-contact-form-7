@@ -52,7 +52,7 @@ ____ minutes
 
 Participants will get the most from this lesson if they have familiarity with:
 
-*   Ability to [install a plugin](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) from the WordPress.org repository
+*   Ability to [install a plugin](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) from the WordPress.org repository
 *   Ability to [create and edit pages](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/) on your WordPress website
 
 ## Readiness Questions
@@ -106,7 +106,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 Practice creating a form with the Contact Form 7 plugin.
 
-*   Add a new contact form to Contact Page of your site or any other location of your choice. Make sure it includes some radio buttons and an acceptance checkbox.
+*   Add a new contact form to Contact Page of your site or any other location of your choice. Make sure it includes some radio buttons and an acceptance checkbox.
 
 ## Assessment
 
@@ -115,10 +115,10 @@ Practice creating a form with the Contact Form 7 plugin.
 1.  Your Message  
 
 2.  [textarea your-message 40x2]
-3.  ["Enter your message" textarea your-message]
+3.  ["Enter your message" textarea your-message]
 4.  form.wpcf7-form {text-align: center;}
 
-Correct answer: 2. [textarea your-message 40x2]
+Correct answer: 2. [textarea your-message 40x2]
 
 **What symbol is used to mark a field is required to answer?**
 
@@ -127,7 +127,7 @@ Correct answer: 2. [textarea your-message 40x2]
 3.  &
 4.  *
 
-Correct answer: 4.*
+Correct answer: 4.*
 
 ## Additional Resources
 
@@ -144,12 +144,12 @@ Contact Form 7 is a user-friendly plugin for adding forms to your site, and thes
 *   It doesn’t require a user to redirect to their email account, which can be a hassle in a library or friend’s computer.
 *   You may take advantage of a browser’s autofill function.
 *   Using such additional WordPress plugins like Gravity Forms, a form can route the notification to different addresses depending on the form subject.
-*   It doesn't reveal your email address to spammers.
+*   It doesn't reveal your email address to spammers.
 *   It allows for use of reCaptcha to avoid form fill-ins by bots.
 
 ### Using your form
 
-**Scenario:** Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
+**Scenario:** Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
 
 1\. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
 [![Install Contact Form 7](images/installcontactform7.PNG)](images/installcontactform7.PNG)
@@ -164,9 +164,9 @@ The default form contains the following fields:
 *   Subject
 *   Your Message
 
-You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. [![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
+You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. [![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
 
-3\. Copy this shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
+3\. Copy the shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
 
 [![Add Contact Form to Post](images/addcontactformintopost.png)](images/addcontactformintopost.png)
 
@@ -180,20 +180,20 @@ You can make your form look more stylish and have some more/less fields by throw
 
 #### Modifying Form Fields
 
-1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. [![Selection_029](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png) 2.You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag are highlighted below:
+1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. [![Selection_029](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png) 2.You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag are highlighted below:
 
 *   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
 *   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
-*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
-*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
-*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
+*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
+*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
+*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
 
 Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
 
-*   _text, email, textarea_ - for text fields
+*   _text, email, textarea_ - for text fields
 *   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
 *   _file_ - for file uploading and attachment
-*   _captchac, captchar_ for captcha
+*   _captchac, captchar_ for captcha
 *   _quiz_ for quiz
 *   _acceptance_ for acceptance checkbox
 *   _submit_ for submit button.
@@ -229,15 +229,15 @@ Your Message
 Note we have:
 
 1.  <span style="color: #ff0000">R</span><del>r</del>emoved e-mail tag
-2.  <span style="color: #ff0000">A</span><del>a</del>dded new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
+2.  <span style="color: #ff0000">A</span><del>a</del>dded new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
 3.  <span style="color: #ff0000">A</span><del>a</del>dded a new non-mandatory field where people should indicate when they prefer to be called
 4.  <span style="color: #ff0000">M</span><del>m</del>ade the text area smaller
 
-3\. Don't forget to modify the e-mail that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png) 4\. Save the changes. 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
+3\. Don't forget to modify the e-mail that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png) 4\. Save the changes. 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
-#### Modifying HTML
+#### Modifying HTML
 
-Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 2. Alter the code to look like this:
+Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 2. Alter the code to look like this:
 
 <pre>**
 
@@ -287,9 +287,9 @@ Your Message
 
 </pre>
 
-3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
+3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
 
-#### Modifying CSS
+#### Modifying CSS
 
 And, of course, you can also prettify the form with some CSS. Open your theme's style.css in a text editor of your choice and add the following code:
 
@@ -333,11 +333,11 @@ After you save the file and refresh the form it looks a bit different. [![Select
 
 ### Summary
 
-Well done! You have successfully added a new contact form to your website. Now you should be able to create a new contact form when you need it  and modify it to fit your needs.
+Well done! You have successfully added a new contact form to your website. Now you should be able to create a new contact form when you need it  and modify it to fit your needs.
 
 ### Lesson Wrap Up
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTg3MzE1N119
+eyJoaXN0b3J5IjpbLTk3NDU5NTY5NiwtNzMxODczMTU3XX0=
 -->
