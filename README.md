@@ -233,7 +233,11 @@ Note we have:
 3.  Added a new non-mandatory field where people should indicate when they prefer to be called
 4.  Made the text area smaller
 
-3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png) 4\. Save the changes. 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
+3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
+
+4\. Save the changes.
+
+5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
 #### Modifying HTML
 
@@ -339,7 +343,8 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTUwNDA2MiwtOTUxNjQ2NjE4LDIzMD
-IwODM4NCw2OTY0MTczMDksLTc4MDczMDg3NSwtMjQzNTg1MDA0
-LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLTczMTg3MzE1N119
+eyJoaXN0b3J5IjpbLTE3MTk0NDE2NTQsLTk1MTY0NjYxOCwyMz
+AyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4NzUsLTI0MzU4NTAw
+NCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC03MzE4NzMxNTddfQ
+==
 -->
