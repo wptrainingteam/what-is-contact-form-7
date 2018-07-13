@@ -198,7 +198,7 @@ Note that order of those parts is important. Here is a list of all the tags that
 *   _acceptance_ for acceptance checkbox
 *   _submit_ for submit button.
 
-**Tip**There's also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/).[/tip] Alter the code to look like this:
+**Tip**: There's also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/).[/tip] Alter the code to look like this:
 
 <pre>
 
@@ -339,6 +339,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzY3ODE5MCwtMTc1OTIxNjI3MiwtOT
+eyJoaXN0b3J5IjpbLTI0MzU4NTAwNCwtMTc1OTIxNjI3MiwtOT
 c0NTk1Njk2LC03MzE4NzMxNTddfQ==
 -->
