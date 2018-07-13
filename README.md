@@ -149,7 +149,7 @@ Contact Form 7 is a user-friendly plugin for adding forms to your site, and thes
 
 ### Using your form
 
-**Scenario:** Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
+Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
 
 1\. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
 [![Install Contact Form 7](images/installcontactform7.PNG)](images/installcontactform7.PNG)
@@ -348,9 +348,9 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMjE3NTAsLTQ0MzMzMzE0Miw5NzQzMj
-E3NjEsMTY3MTIyMTczOCwtMTcxOTQ0MTY1NCwtOTUxNjQ2NjE4
-LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MDczMDg3NSwtMjQzNT
-g1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLTczMTg3MzE1
-N119
+eyJoaXN0b3J5IjpbLTEzMzcwMDk5MDgsODUwMjE3NTAsLTQ0Mz
+MzMzE0Miw5NzQzMjE3NjEsMTY3MTIyMTczOCwtMTcxOTQ0MTY1
+NCwtOTUxNjQ2NjE4LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MD
+czMDg3NSwtMjQzNTg1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2
+OTYsLTczMTg3MzE1N119
 -->
