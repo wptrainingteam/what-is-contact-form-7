@@ -241,6 +241,8 @@ Note we have:
 
 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
+####How Tags Work
+
 #### Modifying HTML
 
 Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 2. Alter the code to look like this:
@@ -345,7 +347,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDczMzA5NywtMTcxOTQ0MTY1NCwtOT
+eyJoaXN0b3J5IjpbLTg2MTAyNzk1MywtMTcxOTQ0MTY1NCwtOT
 UxNjQ2NjE4LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MDczMDg3
 NSwtMjQzNTg1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLT
 czMTg3MzE1N119
