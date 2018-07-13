@@ -184,6 +184,7 @@ You can make your form look more stylish and have some more/less fields by throw
 
 2\. You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag are highlighted below:
 
+**Move to How Tags Work section (start)**
 *   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
 *   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
 *   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
@@ -343,8 +344,8 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk0NDE2NTQsLTk1MTY0NjYxOCwyMz
-AyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4NzUsLTI0MzU4NTAw
-NCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC03MzE4NzMxNTddfQ
-==
+eyJoaXN0b3J5IjpbLTExNDA3MjI5MDQsLTE3MTk0NDE2NTQsLT
+k1MTY0NjYxOCwyMzAyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4
+NzUsLTI0MzU4NTAwNCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC
+03MzE4NzMxNTddfQ==
 -->
