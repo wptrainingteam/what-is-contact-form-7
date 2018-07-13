@@ -241,8 +241,8 @@ Note we have:
 
 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
-####How Tags Work
-
+#### Using Tags
+Tags in Contact Form 7 allows you to design and customize your form. You can set
 
 #### Modifying HTML
 
@@ -348,8 +348,8 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzMyMDEyNSwtMTcxOTQ0MTY1NCwtOT
-UxNjQ2NjE4LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MDczMDg3
-NSwtMjQzNTg1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLT
-czMTg3MzE1N119
+eyJoaXN0b3J5IjpbLTEwODA1MzkxNzUsLTE3MTk0NDE2NTQsLT
+k1MTY0NjYxOCwyMzAyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4
+NzUsLTI0MzU4NTAwNCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC
+03MzE4NzMxNTddfQ==
 -->
