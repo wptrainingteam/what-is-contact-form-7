@@ -184,24 +184,6 @@ You can make your form look more stylish and have some more/less fields by throw
 
 2\. You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag are highlighted below:
 
-**Move to How Tags Work section (start)**
-*   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
-*   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
-*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
-*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
-*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
-
-Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
-
-*   _text, email, textarea_ - for text fields
-*   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
-*   _file_ - for file uploading and attachment
-*   _captchac, captchar_ for captcha
-*   _quiz_ for quiz
-*   _acceptance_ for acceptance checkbox
-*   _submit_ for submit button.
-**Move to How Tags Work section (end)**
-
 **Tip**: There's also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). Alter the code to look like this:
 
 
@@ -242,7 +224,24 @@ Note we have:
 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
 #### Using Tags
+
 Tags in Contact Form 7 allows you to design and customize your form. You can set a field to be a mandatory field, you can customize an input to a field to be a textbox or drop down list. Tags are pre-defined keywords enclosed in square brackets ([ ]).
+
+*   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
+*   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
+*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
+*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
+*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
+
+Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
+
+*   _text, email, textarea_ - for text fields
+*   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
+*   _file_ - for file uploading and attachment
+*   _captchac, captchar_ for captcha
+*   _quiz_ for quiz
+*   _acceptance_ for acceptance checkbox
+*   _submit_ for submit button.
 
 #### Modifying HTML
 
@@ -348,8 +347,8 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA2NzQxNTksLTE3MTk0NDE2NTQsLT
-k1MTY0NjYxOCwyMzAyMDgzODQsNjk2NDE3MzA5LC03ODA3MzA4
-NzUsLTI0MzU4NTAwNCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC
-03MzE4NzMxNTddfQ==
+eyJoaXN0b3J5IjpbMTU2MTg1NzYyMiwtMTcxOTQ0MTY1NCwtOT
+UxNjQ2NjE4LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MDczMDg3
+NSwtMjQzNTg1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLT
+czMTg3MzE1N119
 -->
