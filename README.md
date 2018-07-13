@@ -15,8 +15,8 @@ After completing this lesson, participants will be able to:
 
 Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
-* [ ] Users
-* [ ] Designers
+* [X] Users
+* [X] Designers
 * [ ] Developers
 * [ ] Speakers
 * [ ] All
@@ -28,15 +28,15 @@ How much experience would a participant need to get the most from this lesson?
 * [ ] Beginner
 * [ ] Intermediate
 * [ ] Advanced
-* [ ] Any
+* [X] Any
 
 ## Type of Instruction
 
 Which strategies will be used for this lesson plan? Choose all that apply.
 
-* [ ] Demonstration
+* [X] Demonstration
 * [ ] Discussion
-* [ ] Exercises
+* [X] Exercises
 * [ ] Feedback
 * [ ] Lecture (Presentation)
 * [ ] Show & Tell
@@ -138,29 +138,41 @@ Correct answer: 4.*
 
 ### Introduction
 
-Contact Form 7 is a user-friendly plugin for adding forms to your site, and these forms are not just limited to <del>the</del> <span style="color: #ff0000">just</span> contact form<span style="color: #ff0000">s</span>. This plugin uses <del>easy to use</del> shortcodes and generator tools to help you create <del>just</del> the form you are looking for on your website. Regarding contact forms, some of the benefits of using contact forms over just publishing a contact e-mail would be:
+Contact Form 7 is a user-friendly plugin for adding forms to your site, and these forms are not just limited to just contact forms. This plugin uses shortcodes and generator tools to help you create the form you are looking for on your website. Regarding contact forms, some of the benefits of using contact forms over just publishing a contact e-mail would be:
 
 *   It lets the user stay on the same page.
 *   It doesn’t require a user to redirect to their email account, which can be a hassle in a library or friend’s computer.
 *   You may take advantage of a browser’s autofill function.
 *   Using such additional WordPress plugins like Gravity Forms, a form can route the notification to different addresses depending on the form subject.
-*   <span style="color: #ff0000">It doesn't reveal your email address to spammers.</span>
-*   <span style="color: #ff0000">It allows for use of reCaptcha to avoid form fill-ins by bots.</span>
+*   It doesn't reveal your email address to spammers.
+*   It allows for use of reCaptcha to avoid form fill-ins by bots.
 
 ### Using your form
 
-**Scenario:** let's try using Contact Form 7 to create a simple contact form for customers who want to be contacted via phone for our new post. 1\. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it. [![Selection_023](https://make.wordpress.org/training/files/2015/12/Selection_023.png)](https://make.wordpress.org/training/files/2015/12/Selection_023.png) 2\. By default, when you first install Contact Forms 7 on your site, it will create a simple Contact Form for you. This can be accessed by clicking on **Contact** on the left-side menu, and then **Contact Forms**, which will bring up a list of all forms created with this plugin on your site. The default form contains the following fields:
+**Scenario:** Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
+
+1\. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
+[![Install Contact Form 7](images/installcontactform7.PNG)](images/installcontactform7.PNG)
+
+2\. By default, when you first install Contact Form 7 on your site, it will create a simple Contact Form for you. This can be accessed by clicking on **Contact** on the left-side menu, and then **Contact Forms**, which will bring up a list of all forms created with this plugin on your site.
+[![Default Contact Form](images/defaultcontactform.png)](images/defaultcontactform.png)
+
+The default form contains the following fields:
 
 *   Your Name - required
 *   Your Email - required
 *   Subject
 *   Your Message
 
-You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. [![Selection_025](https://make.wordpress.org/training/files/2015/12/Selection_025.png)](https://make.wordpress.org/training/files/2015/12/Selection_025.png) 3\. Copy this shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
+You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. [![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
 
-### [![Selection_026](https://make.wordpress.org/training/files/2015/12/Selection_026.png)](https://make.wordpress.org/training/files/2015/12/Selection_026.png)
+3\. Copy this shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
 
-Check out the result. **<span style="color: #ff0000">IMAGE MISSING!</span>** [![Selection_027](https://make.wordpress.org/training/files/2015/12/Selection_027.png)](https://make.wordpress.org/training/files/2015/12/Selection_027.png)
+[![Add Contact Form to Post](images/addcontactformintopost.png)](images/addcontactformintopost.png)
+
+Check out the result.
+
+[![Preview Contact Form](images/previewcontactform.png)](images/previewcontactform.png)
 
 ### Customizing your form
 
