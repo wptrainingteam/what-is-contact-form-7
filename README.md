@@ -200,9 +200,9 @@ Note that order of those parts is important. Here is a list of all the tags that
 
 **Tip**: There's also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). Alter the code to look like this:
 
-<pre>
 
-Your Name (required)  
+
+```Your Name (required)  
 
     [text* your-name]
 
@@ -222,9 +222,7 @@ Your Message
 
     [textarea your-message `40x2`]
 
-[submit "Send"]
-
-</pre>
+[submit "Send"]```
 
 Note we have:
 
@@ -339,6 +337,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0MTU3NDYsLTI0MzU4NTAwNCwtMT
+eyJoaXN0b3J5IjpbLTE2NTEwMzg5NDMsLTI0MzU4NTAwNCwtMT
 c1OTIxNjI3MiwtOTc0NTk1Njk2LC03MzE4NzMxNTddfQ==
 -->
