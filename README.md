@@ -168,7 +168,7 @@ You can insert this form immediately into any page or post on your site by using
 
 3\. Copy the shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
 
-[![Add Contact Form to Post](images/addcontactformintopost.png)](images/addcontactformintopost.png)
+[![Add Contact Form to Post](images/addcontactformintopost.PNG)](images/addcontactformintopost.png)
 
 Check out the result.
 
@@ -339,5 +339,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDU5NTY5NiwtNzMxODczMTU3XX0=
+eyJoaXN0b3J5IjpbLTE3NTkyMTYyNzIsLTk3NDU5NTY5NiwtNz
+MxODczMTU3XX0=
 -->
