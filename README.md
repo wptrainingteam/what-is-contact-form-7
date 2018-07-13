@@ -226,8 +226,8 @@ Your Message
 ```
 Note we have:
 
-1.  <span style="color: #ff0000">R</span><del>r</del>emoved e-mail tag
-2.  <span style="color: #ff0000">A</span><del>a</del>dded new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
+1.  Removed e-mail tag
+2.  Added new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
 3.  <span style="color: #ff0000">A</span><del>a</del>dded a new non-mandatory field where people should indicate when they prefer to be called
 4.  <span style="color: #ff0000">M</span><del>m</del>ade the text area smaller
 
@@ -337,6 +337,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDczMDg3NSwtMjQzNTg1MDA0LC0xNz
-U5MjE2MjcyLC05NzQ1OTU2OTYsLTczMTg3MzE1N119
+eyJoaXN0b3J5IjpbLTgwNjIzMTYyLC03ODA3MzA4NzUsLTI0Mz
+U4NTAwNCwtMTc1OTIxNjI3MiwtOTc0NTk1Njk2LC03MzE4NzMx
+NTddfQ==
 -->
