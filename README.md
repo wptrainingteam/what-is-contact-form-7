@@ -182,7 +182,7 @@ You can make your form look more stylish and have some more/less fields by throw
 
 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. [![Selection_029](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_029-1.png)
 
-2\. You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag are highlighted below:
+2\. You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [“Generate Tag”](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag can be found in "Using Tags" section.
 
 **Tip**: There's also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). Alter the code to look like this:
 
@@ -347,7 +347,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTg1NzYyMiwtMTcxOTQ0MTY1NCwtOT
+eyJoaXN0b3J5IjpbMTY3MTIyMTczOCwtMTcxOTQ0MTY1NCwtOT
 UxNjQ2NjE4LDIzMDIwODM4NCw2OTY0MTczMDksLTc4MDczMDg3
 NSwtMjQzNTg1MDA0LC0xNzU5MjE2MjcyLC05NzQ1OTU2OTYsLT
 czMTg3MzE1N119
