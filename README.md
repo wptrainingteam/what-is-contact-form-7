@@ -176,7 +176,7 @@ Check out the result.
 
 ### Customizing your form
 
-You can further customize your form to look more stylish by using HTML or CSS. However, HTML and CSS will not be discussed in this topic.
+You can further customize your form to look more stylish by using HTML or CSS. You can also edit the default template using tags to add or remove fields in the form to suit your needs.
 
 #### Modifying Form Fields
 
@@ -348,8 +348,8 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MDA1MjE3LDk3NDMyMTc2MSwxNjcxMj
-IxNzM4LC0xNzE5NDQxNjU0LC05NTE2NDY2MTgsMjMwMjA4Mzg0
-LDY5NjQxNzMwOSwtNzgwNzMwODc1LC0yNDM1ODUwMDQsLTE3NT
-kyMTYyNzIsLTk3NDU5NTY5NiwtNzMxODczMTU3XX0=
+eyJoaXN0b3J5IjpbLTQ0MzMzMzE0Miw5NzQzMjE3NjEsMTY3MT
+IyMTczOCwtMTcxOTQ0MTY1NCwtOTUxNjQ2NjE4LDIzMDIwODM4
+NCw2OTY0MTczMDksLTc4MDczMDg3NSwtMjQzNTg1MDA0LC0xNz
+U5MjE2MjcyLC05NzQ1OTU2OTYsLTczMTg3MzE1N119
 -->
