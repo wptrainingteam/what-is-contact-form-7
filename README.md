@@ -193,7 +193,9 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 2\. You can start modifying the form by altering its code. [![Selection_030](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png)](https://make.wordpress.org/training/files/2015/12/Selection_030-1.png) Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [Generate Tag](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag can be found in [Using Tags](#using-tags) section.
 
-> ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, i.e. [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). Alter the code to look like this:
+> ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
+
+Alter the code to look like this:
 
 
 
@@ -357,6 +359,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTc1NDc5MSwxNzY0MzAyNzEwLC0xMj
-A5NjIzMjhdfQ==
+eyJoaXN0b3J5IjpbNjEyMDU4OTM0LDE3NjQzMDI3MTAsLTEyMD
+k2MjMyOF19
 -->
