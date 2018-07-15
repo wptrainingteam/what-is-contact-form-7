@@ -189,7 +189,7 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 #### Modifying Form Fields
 
-1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. [![Edit Contact Form](/images/editcontactform2)
+1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. ![Edit Contact Form](/images/editcontactform2)
 
 2\. You can start modifying the form by altering its code. Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field. Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. You should use  the [Generate Tag](http://contactform7.com/admin-screen/#tag-generator) tool to generate new tags. The basic parts that compose a tag can be found in [Using Tags](#using-tags) section.
 
@@ -239,7 +239,8 @@ Note we have:
 
 Tags in Contact Form 7 allows you to design and customize your form. You can set a field to be a mandatory field, you can customize an input to a field to be a textbox or drop down list. Tags are pre-defined keywords enclosed in square brackets ([ ]).
 
-![Syntax of Form Tags] (images/formtagsyntax)
+![Syntax of Form Tags] (/images/formtagsyntax)
+![Edit Contact Form](/images/editcontactform2)
 
 *   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
 *   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
@@ -361,6 +362,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMDcyODI4LDE3NTU3MDkxOTMsMTc2ND
-MwMjcxMCwtMTIwOTYyMzI4XX0=
+eyJoaXN0b3J5IjpbMjA4ODc3MTY0MCwxNzU1NzA5MTkzLDE3Nj
+QzMDI3MTAsLTEyMDk2MjMyOF19
 -->
