@@ -239,7 +239,7 @@ Note we have:
 
 Tags in Contact Form 7 allows you to design and customize your form. You can set a field to be a mandatory field, you can customize an input to a field to be a textbox or drop down list. Tags are pre-defined keywords enclosed in square brackets ([ ]).
 
-![[Syntax of Form Tags](/images/formtagsyntax.png)]
+![[Syntax of Form Tags](/images/formtagsyntax.png)] (/images/formtagsyntax.png)
 
 *   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
 *   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
@@ -361,6 +361,6 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNjIzMjIwLDE3NTU3MDkxOTMsMTc2ND
+eyJoaXN0b3J5IjpbMTM1NDkwODYzLDE3NTU3MDkxOTMsMTc2ND
 MwMjcxMCwtMTIwOTYyMzI4XX0=
 -->
