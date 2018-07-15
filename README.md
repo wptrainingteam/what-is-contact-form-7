@@ -117,8 +117,6 @@ Practice creating a questionnaire containing five questions with the Contact For
 	* Checkboxes
 
 
-
-	* 
 ## Assessment
 
 **Which of the following is a Contact Form 7 tag?**
@@ -359,5 +357,5 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2MjMyOF19
+eyJoaXN0b3J5IjpbMTc2NDMwMjcxMCwtMTIwOTYyMzI4XX0=
 -->
