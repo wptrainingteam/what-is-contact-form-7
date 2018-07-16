@@ -203,42 +203,7 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 > ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
 
-Alter the code to look like this:
 
-
-```
-Your Name (required)  
-
-    [text* your-name]
-
-Your Email(required)  
-
-    [text* your-name]
-    
-Your Phone Number  
-
-    [tel* your-phone "123-456-7890"]
-
-Select the time we should call you:  
-
-    [select time-to-call "Business hours" "Evening" "Morning" "As soon as possible"]
-
-Subject  
-
-    [text your-subject]
-
-Your Message  
-
-    [textarea your-message `40x2`]
-
-[submit "Send"]
-```
-Note we have:
-
-1.  Removed email tag
-2.  Added new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
-3.  Added a new non-mandatory field where people should indicate when they prefer to be called
-4.  Made the text area smaller
 
 3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
 
@@ -373,9 +338,9 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODM4MDc1OCwxOTk0Nzg1MjAxLDEzMj
-AyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgz
-LDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMwODA0LC0xNj
-ExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMCwtMTIwOTYy
-MzI4XX0=
+eyJoaXN0b3J5IjpbLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMz
+IwMjgwNzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4
+MywyMTQ0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMT
+YxMTQwMzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2
+MjMyOF19
 -->
