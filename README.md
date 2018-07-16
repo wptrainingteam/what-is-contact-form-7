@@ -205,7 +205,7 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 
 
-3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
+3\. After the form has been Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
 
 4\. Save the changes.
 
@@ -338,9 +338,9 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMz
-IwMjgwNzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4
-MywyMTQ0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMT
-YxMTQwMzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2
-MjMyOF19
+eyJoaXN0b3J5IjpbLTYxOTk1NDMzOCwxOTk0Nzg1MjAxLDEzMj
+AyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgz
+LDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMwODA0LC0xNj
+ExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMCwtMTIwOTYy
+MzI4XX0=
 -->
