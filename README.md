@@ -195,6 +195,7 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. The tags can be added by clicking on the tags button when editing the form. Generated tags can be edited to suit various requirements as well. 
 ![Add Tags](/images/addtags.png)
+
 The basic parts that compose a tag can be found in [Using Tags](#using-tags) section.
 
 > ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
@@ -365,7 +366,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAzNTc3MDksLTQxMDkzMDgwNCwtMT
-YxMTQwMzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2
-MjMyOF19
+eyJoaXN0b3J5IjpbLTE4OTgxMTk3NzUsLTEwMTAzNTc3MDksLT
+QxMDkzMDgwNCwtMTYxMTQwMzYzNSwxNzU1NzA5MTkzLDE3NjQz
+MDI3MTAsLTEyMDk2MjMyOF19
 -->
