@@ -191,7 +191,7 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form. ![Edit Contact Form](/images/editcontactform2.png)
 
-2\. You can start modifying the form by altering its code. Let's say we want to replace the "e-mail" field with the "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field.
+2\. You can start modifying the form by altering its code. Let's say we want to add a new "phone" field and add an additional set of radio buttons that would specify what time the person who is contacting the website want to be called back. To add fields to a form, you should make tags for them and put them into the ‘Form’ field.
 
 Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. The tags can be added by clicking on the tags button when editing the form. Generated tags can be edited to suit various requirements as well. 
 
@@ -367,7 +367,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDcxNTAzLC0xODk4MTE5Nzc1LC00MT
-A5MzA4MDQsLTE2MTE0MDM2MzUsMTc1NTcwOTE5MywxNzY0MzAy
-NzEwLC0xMjA5NjIzMjhdfQ==
+eyJoaXN0b3J5IjpbNTExNDE4MjM0LDIxNDQ3MTUwMywtMTg5OD
+ExOTc3NSwtNDEwOTMwODA0LC0xNjExNDAzNjM1LDE3NTU3MDkx
+OTMsMTc2NDMwMjcxMCwtMTIwOTYyMzI4XX0=
 -->
