@@ -204,11 +204,15 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 Alter the code to look like this:
 
 
-
-```Your Name (required)  
+```
+Your Name (required)  
 
     [text* your-name]
 
+Your Email(required)  
+
+    [text* your-name]
+    
 Your Phone Number  
 
     [tel* your-phone "123-456-7890"]
@@ -367,7 +371,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNDE4MjM0LDIxNDQ3MTUwMywtMTg5OD
+eyJoaXN0b3J5IjpbMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5OD
 ExOTc3NSwtNDEwOTMwODA0LC0xNjExNDAzNjM1LDE3NTU3MDkx
 OTMsMTc2NDMwMjcxMCwtMTIwOTYyMzI4XX0=
 -->
