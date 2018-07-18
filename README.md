@@ -100,7 +100,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 **Creating a contact form with mandatory fields**
 
-Practice creating a form with mandatory fields using the Contact Form 7 plugin.
+Practice creating a form with mandatory fields.
 
 *   Create a new form using Contact Form 7
 * Customize the form to make below fields as mandatory inputs
@@ -110,9 +110,9 @@ Practice creating a form with mandatory fields using the Contact Form 7 plugin.
 
 **Creating a questionnaire**
 
-Practice creating a questionnaire containing five questions with the Contact Form 7 plugin.
+Practice creating a questionnaire containing five questions.
 
-*   Add new contact form on Contact Form 7
+*   Add new contact form using Contact Form 7
 * Design a form with five questions that contains below input types
 	* Radio buttons
 	* Checkboxes
@@ -344,10 +344,10 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDY0ODA0LC01OTYyNDg3NTEsLTgwNT
-kxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyODA3
-MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIxND
-Q3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMwODA0LC0xNjExNDAz
-NjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMCwtMTIwOTYyMzI4XX
-0=
+eyJoaXN0b3J5IjpbMTc1MDA5NDUzMywtNTk2MjQ4NzUxLC04MD
+U5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIwMjgw
+NzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMT
+Q0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYxMTQw
+MzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2MjMyOF
+19
 -->
