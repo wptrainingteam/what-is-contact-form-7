@@ -305,7 +305,7 @@ Your Message
 
 And, of course, you can also prettify the form with some CSS. Open your theme's style.css in a text editor of your choice and add the following code:
 ````
-// Contact 7 Form
+/** Contact 7 Form **/
 
 form.wpcf7-form {
 	text-align: center;
@@ -352,11 +352,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OCwtNT
-IwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEyMzIy
-NzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MS
-wtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1
-OTExMTU5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MD
-czLDE2MjM3OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0
-NDcxNTAzXX0=
+eyJoaXN0b3J5IjpbLTE2Nzk5Njc1ODcsMTYwMDQ5OTgyMSwtMj
+E0MzI4NzM2OCwtNTIwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3
+MTI5NSwtMjEyMzIyNzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NC
+wtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5
+NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4NDg3LDE5OTQ3OD
+UyMDEsMTMyMDI4MDczLDE2MjM3OTI0MDEsMTEzNjc3ODM0OSwx
+NDgxNDcwODNdfQ==
 -->
