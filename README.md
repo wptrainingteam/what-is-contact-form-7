@@ -241,7 +241,7 @@ Note that order of those parts is important. Here is a list of all the tags that
 *   _text, email, textarea_ - for text fields
 *   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
 *   _file_ - for file uploading and attachment
-*   _captchac, captchar_ for reCAPTC
+*   _captchac, captchar_ for reCAPTCHA
 *   _quiz_ for quiz
 *   _acceptance_ for acceptance checkbox
 *   _submit_ for submit button.
@@ -350,11 +350,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDUwMDg3NiwyOTExNjc2MzAsMTUxNT
-Q2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUz
-NjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4NDg3LD
-E5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3OTI0MDEsMTEzNjc3
-ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC0xODk4MTE5Nzc1LC
-00MTA5MzA4MDQsLTE2MTE0MDM2MzUsMTc1NTcwOTE5MywxNzY0
-MzAyNzEwXX0=
+eyJoaXN0b3J5IjpbLTIxMjMyMjczNjUsLTk5MDUwMDg3NiwyOT
+ExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5
+MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC
+0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3
+OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC
+0xODk4MTE5Nzc1LC00MTA5MzA4MDQsLTE2MTE0MDM2MzUsMTc1
+NTcwOTE5M119
 -->
