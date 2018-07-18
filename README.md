@@ -111,14 +111,16 @@ Practice creating a form with the Contact Form 7 plugin.
 
 Practice creating a questionnaire containing five questions with the Contact Form 7 plugin.
 
-*   Add new Contact Forms on Contact Form 7 plugin screen
+*   Add new contact forms on Contact Form 7 plugin screen
 * Design a form with five questions that contains below input types
 	* Radio buttons
 	* Checkboxes
 
 **Creating a booking form with phone number**
 
-Practice creating a booking form with following re
+Practice creating a booking form with phone number to be contacted.
+
+* Add a new Contact Form
 
 ## Assessment
 
@@ -341,10 +343,10 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjI0ODc1MSwtMTgwMzYwMTEzNSwtOD
-A1OTExMTU5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4
-MDczLDE2MjM3OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMj
-E0NDcxNTAzLC0xODk4MTE5Nzc1LC00MTA5MzA4MDQsLTE2MTE0
-MDM2MzUsMTc1NTcwOTE5MywxNzY0MzAyNzEwLC0xMjA5NjIzMj
-hdfQ==
+eyJoaXN0b3J5IjpbMTQ5NjMyMzE0NSwtNTk2MjQ4NzUxLC04MD
+U5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIwMjgw
+NzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMT
+Q0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYxMTQw
+MzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2MjMyOF
+19
 -->
