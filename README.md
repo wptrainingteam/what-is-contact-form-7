@@ -102,16 +102,17 @@ Participants will get the most from this lesson if they have familiarity with:
 
 Practice creating a form with the Contact Form 7 plugin.
 
-*   Add a new contact form to Contact Page of your site or any other location of your choice.
+*   Create a new form using Contact Form 7
 * Customize the form to make below fields as mandatory inputs
 	* Name
 	* Email address
+* Add the form to any page of your choice
 
 **Creating a questionnaire**
 
 Practice creating a questionnaire containing five questions with the Contact Form 7 plugin.
 
-*   Add new contact forms on Contact Form 7 plugin screen
+*   Add new contact form on Contact Form 7
 * Design a form with five questions that contains below input types
 	* Radio buttons
 	* Checkboxes
@@ -343,7 +344,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjMyMzE0NSwtNTk2MjQ4NzUxLC04MD
+eyJoaXN0b3J5IjpbMTY5MTYxNDA5NCwtNTk2MjQ4NzUxLC04MD
 U5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIwMjgw
 NzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMT
 Q0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYxMTQw
