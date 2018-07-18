@@ -98,24 +98,36 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Exercises
 
-**Adding new contact form with mandatory fields**
+**Creating a contact form with mandatory fields**
 
-Practice creating a form with the Contact Form 7 plugin.
+Practice creating a form with mandatory fields.
 
-*   Add a new contact form to Contact Page of your site or any other location of your choice.
+*   Create a new form using Contact Form 7
 * Customize the form to make below fields as mandatory inputs
 	* Name
 	* Email address
+* Add the form to any page of your choice
 
-**Create a questionnaire**
+**Creating a questionnaire**
 
-Practice creating a questionnaire containing five questions with the Contact Form 7 plugin.
+Practice creating a questionnaire containing five questions.
 
-*   Add new Contact Forms on Contact Form 7 plugin screen
+*   Add new contact form using Contact Form 7
 * Design a form with five questions that contains below input types
 	* Radio buttons
 	* Checkboxes
 
+**Creating a booking form with phone number**
+
+Practice creating a booking form with phone number to be contacted.
+
+* Add new contact form using Contact Form 7
+* Design a booking form with below fields
+	* Your Name (mandatory)
+	* Your Email (mandatory)
+	* Your Phone Number (mandatory, with format of "123-456-7890")
+	* Booking Time (mandatory, in drop-down menu)
+	* Message
 
 ## Assessment
 
@@ -197,54 +209,25 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. The tags can be added by clicking on the tags button when editing the form or by typing the codes directly into the editing area. Generated tags can be edited to suit various requirements as well. 
 
-
+![Generate Tag](/images/generatetag.PNG)
 
 The basic parts that compose a tag can be found in [Using Tags](#using-tags) section.
 
 > ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
 
-Alter the code to look like this:
 
 
-```
-Your Name (required)  
+3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
+[![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png) 
 
-    [text* your-name]
-
-Your Email(required)  
-
-    [text* your-name]
-    
-Your Phone Number  
-
-    [tel* your-phone "123-456-7890"]
-
-Select the time we should call you:  
-
-    [select time-to-call "Business hours" "Evening" "Morning" "As soon as possible"]
-
-Subject  
-
-    [text your-subject]
-
-Your Message  
-
-    [textarea your-message `40x2`]
-
-[submit "Send"]
-```
-Note we have:
-
-1.  Removed email tag
-2.  Added new mandatory "phone" field with a default value that will show up for the visitors to understand better what should they type in there
-3.  Added a new non-mandatory field where people should indicate when they prefer to be called
-4.  Made the text area smaller
-
-3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
+You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their inputs from the form.
 
 4\. Save the changes.
 
-5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
+5\. Add the form to a page.
+
+5\. Check out the resulting form. 
+[![Preview Contact Form 2](/images/previewcontactform2.png)](/images/previewcontactform2.png)
 
 
 #### Using Tags
@@ -253,28 +236,24 @@ Tags in Contact Form 7 allows you to design and customize your form. You can set
 
 [![Syntax of Form Tags](/images/formtagsyntax.png)](/images/formtagsyntax.png)
 
-*   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
-*   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
-*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
-*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
-*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
-
-Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
+Note that order of those parts is important. Here is a list of most commonly used tags that can be used in your forms:
 
 *   _text, email, textarea_ - for text fields
-*   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
+*   _checkbox, radio, select_ - for checkboxes, radio buttons and drop-down menu
 *   _file_ - for file uploading and attachment
-*   _captchac, captchar_ for captcha
+*   _captchac, captchar_ for reCAPTCHA
 *   _quiz_ for quiz
 *   _acceptance_ for acceptance checkbox
 *   _submit_ for submit button.
 
 #### Modifying HTML
 
-Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 2. Alter the code to look like this:
+Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 
 
-<pre>**
+1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
+2\. Alter the code to look like this:
 
+````
 <table>
 
 <tbody>
@@ -311,7 +290,6 @@ Subject
 
 </table>
 
-**
 
 Your Message  
 
@@ -319,22 +297,22 @@ Your Message
 
 [submit "Send"]
 
-</pre>
-
-3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
+````
+3\. Save the changes. Now there's two columns to the form.
+[![Form with Two Columns](/images/twocolumnform5.png)](/images/twocolumnform5.png)  
 
 #### Modifying CSS
 
 And, of course, you can also prettify the form with some CSS. Open your theme's style.css in a text editor of your choice and add the following code:
-
-<pre>// Contact 7 Form
+````
+/** Contact 7 Form **/
 
 form.wpcf7-form {
 	text-align: center;
 }
 
 input#formname, #subject, #message {
-	width:75%%;
+	width:75%;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
@@ -360,10 +338,11 @@ input.wpcf7-form-control.wpcf7-submit{
 
 input.wpcf7-form-control.wpcf7-submit input:hover[type="button"], input:hover[type="reset"], input:hover[type="submit"], .button:hover, .entry-content .button:hover {
 	background-color: #f88888;
-    float: center;
-}</pre>
+}
+````
 
-After you save the file and refresh the form it looks a bit different. [![Selection_036](https://make.wordpress.org/training/files/2015/12/Selection_036.png)](https://make.wordpress.org/training/files/2015/12/Selection_036.png)
+After you save the file and refresh the form it looks a bit different.
+[![CSS Customization](/images/csscustomization.png)](/images/csscustomization.png)
 
 ### Summary
 
@@ -373,8 +352,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDc4NTIwMSwxMzIwMjgwNzMsMTYyMz
-c5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMTQ0NzE1MDMs
-LTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYxMTQwMzYzNSwxNz
-U1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2MjMyOF19
+eyJoaXN0b3J5IjpbMjA5NzM2NzQ2LC00MTAyMDY3NDksLTE2Nz
+k5Njc1ODcsMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OCwtNTIwOTgx
+ODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEyMzIyNzM2NS
+wyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1
+OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMT
+U5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2
+MjM3OTI0MDFdfQ==
 -->
