@@ -251,6 +251,7 @@ Note that order of those parts is important. Here is a list of most commonly use
 Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 
 
 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
+
 2\. Alter the code to look like this:
 
 ````
@@ -352,11 +353,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjI4OTkwLDE1Mjk1NTYwNjMsMjA5Nz
-M2NzQ2LC00MTAyMDY3NDksLTE2Nzk5Njc1ODcsMTYwMDQ5OTgy
-MSwtMjE0MzI4NzM2OCwtNTIwOTgxODcwLDE5NDUxNDQzNTMsLT
-kzNTE3MTI5NSwtMjEyMzIyNzM2NSwyOTExNjc2MzAsMTUxNTQ2
-NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUzNj
-YsLTU5NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4NDg3LDE5
-OTQ3ODUyMDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzc4MjUyNjQsMTUyOTU1NjA2MywyMD
+k3MzY3NDYsLTQxMDIwNjc0OSwtMTY3OTk2NzU4NywxNjAwNDk5
+ODIxLC0yMTQzMjg3MzY4LC01MjA5ODE4NzAsMTk0NTE0NDM1My
+wtOTM1MTcxMjk1LC0yMTIzMjI3MzY1LDI5MTE2NzYzMCwxNTE1
+NDY2MTg0LC0xMTgxODE2OTYxLC03MDU5NDkxNTksMTUyOTQ1NT
+M2NiwtNTk2MjQ4NzUxLC04MDU5MTExNTksLTIxMjczNjg0ODcs
+MTk5NDc4NTIwMV19
 -->
