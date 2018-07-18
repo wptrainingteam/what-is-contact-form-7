@@ -272,9 +272,9 @@ Your Phone Number
 
  [tel* your-phone "123-456-7890"]
 
-</td>
+\</td>
 
-<td>
+\<td>
 
 Select the time we should call you:  
 
@@ -284,13 +284,13 @@ Subject
 
  [text your-subject]
 
-</td>
+\</td>
 
-</tr>
+\</tr>
 
-</tbody>
+\</tbody>
 
-</table>
+\</table>
 
 
 Your Message  
@@ -299,7 +299,7 @@ Your Message
 
 [submit "Send"]
 
-</pre>
+\</pre>
 ``
 3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
 
@@ -353,7 +353,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTE3MTI5NSwtOTc0MzMzMjE1LC0yMT
+eyJoaXN0b3J5IjpbMTk0NTE0NDM1MywtOTM1MTcxMjk1LC0yMT
 IzMjI3MzY1LDI5MTE2NzYzMCwxNTE1NDY2MTg0LC0xMTgxODE2
 OTYxLC03MDU5NDkxNTksMTUyOTQ1NTM2NiwtNTk2MjQ4NzUxLC
 04MDU5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIw
