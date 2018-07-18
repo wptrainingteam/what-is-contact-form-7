@@ -217,7 +217,7 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 
 
-3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Selection_033_1](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
+3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Mail Template](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
 
 4\. Save the changes.
 
@@ -350,10 +350,10 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OT
-YyNDg3NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1
-MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMT
-Q4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMw
-ODA0LC0xNjExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMC
-wtMTIwOTYyMzI4XX0=
+eyJoaXN0b3J5IjpbOTgzMDE1NzI1LC03MDU5NDkxNTksMTUyOT
+Q1NTM2NiwtNTk2MjQ4NzUxLC04MDU5MTExNTksLTIxMjczNjg0
+ODcsMTk5NDc4NTIwMSwxMzIwMjgwNzMsMTYyMzc5MjQwMSwxMT
+M2Nzc4MzQ5LDE0ODE0NzA4MywyMTQ0NzE1MDMsLTE4OTgxMTk3
+NzUsLTQxMDkzMDgwNCwtMTYxMTQwMzYzNSwxNzU1NzA5MTkzLD
+E3NjQzMDI3MTAsLTEyMDk2MjMyOF19
 -->
