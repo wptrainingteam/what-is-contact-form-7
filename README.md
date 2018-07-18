@@ -217,7 +217,10 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 
 
-3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. [![Mail Template](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png)](https://make.wordpress.org/training/files/2015/12/Selection_033_1.png) You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
+3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
+[![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png) 
+
+ou can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. [![Selection_037](https://make.wordpress.org/training/files/2015/12/Selection_037.png)](https://make.wordpress.org/training/files/2015/12/Selection_037.png).
 
 4\. Save the changes.
 
@@ -350,10 +353,10 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMDE1NzI1LC03MDU5NDkxNTksMTUyOT
-Q1NTM2NiwtNTk2MjQ4NzUxLC04MDU5MTExNTksLTIxMjczNjg0
-ODcsMTk5NDc4NTIwMSwxMzIwMjgwNzMsMTYyMzc5MjQwMSwxMT
-M2Nzc4MzQ5LDE0ODE0NzA4MywyMTQ0NzE1MDMsLTE4OTgxMTk3
-NzUsLTQxMDkzMDgwNCwtMTYxMTQwMzYzNSwxNzU1NzA5MTkzLD
-E3NjQzMDI3MTAsLTEyMDk2MjMyOF19
+eyJoaXN0b3J5IjpbMTExNTE2MjMzMCwtNzA1OTQ5MTU5LDE1Mj
+k0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4
+NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3OTI0MDEsMT
+EzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC0xODk4MTE5
+Nzc1LC00MTA5MzA4MDQsLTE2MTE0MDM2MzUsMTc1NTcwOTE5My
+wxNzY0MzAyNzEwLC0xMjA5NjIzMjhdfQ==
 -->
