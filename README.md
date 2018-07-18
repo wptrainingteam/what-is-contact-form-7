@@ -220,7 +220,7 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
 [![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png) 
 
-You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their message.
+You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their message/reqeusts.
 
 4\. Save the changes.
 
@@ -353,7 +353,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjE3MDExMSwtOTI0NDEzODAzLC03MD
+eyJoaXN0b3J5IjpbMTQ5MDEyMjA4OCwtNDgyMTcwMTExLC03MD
 U5NDkxNTksMTUyOTQ1NTM2NiwtNTk2MjQ4NzUxLC04MDU5MTEx
 NTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIwMjgwNzMsMT
 YyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMTQ0NzE1
