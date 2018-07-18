@@ -300,7 +300,7 @@ Your Message
 
 ````
 3\. Save the changes. Now there's two columns to the form.
-[![Form with Two Columns](/images/twocolumnform5.png)](/images/twocolumnform5.png)  
+[![Form with Two Columns](/images/twocolumnform.png)](/images/twocolumnform.png)  
 
 #### Modifying CSS
 
@@ -353,11 +353,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4MjUyNjQsMTUyOTU1NjA2MywyMD
-k3MzY3NDYsLTQxMDIwNjc0OSwtMTY3OTk2NzU4NywxNjAwNDk5
-ODIxLC0yMTQzMjg3MzY4LC01MjA5ODE4NzAsMTk0NTE0NDM1My
-wtOTM1MTcxMjk1LC0yMTIzMjI3MzY1LDI5MTE2NzYzMCwxNTE1
-NDY2MTg0LC0xMTgxODE2OTYxLC03MDU5NDkxNTksMTUyOTQ1NT
-M2NiwtNTk2MjQ4NzUxLC04MDU5MTExNTksLTIxMjczNjg0ODcs
-MTk5NDc4NTIwMV19
+eyJoaXN0b3J5IjpbLTMwNzc2MjI3OCwtMTI3NzgyNTI2NCwxNT
+I5NTU2MDYzLDIwOTczNjc0NiwtNDEwMjA2NzQ5LC0xNjc5OTY3
+NTg3LDE2MDA0OTk4MjEsLTIxNDMyODczNjgsLTUyMDk4MTg3MC
+wxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkx
+MTY3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OT
+E1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwt
+MjEyNzM2ODQ4N119
 -->
