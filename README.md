@@ -298,7 +298,7 @@ Your Message
 [submit "Send"]
 
 ````
-3\. Save the changes. Now there's two columns to the form. [![Form with Two Columns5](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
+3\. Save the changes. Now there's two columns to the form. [![Form with Two Columns](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
 
 #### Modifying CSS
 
@@ -350,11 +350,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ1NzgzMzksLTUyMDk4MTg3MCwxOT
-Q1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkxMTY3
-NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OTE1OS
-wxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwtMjEy
-NzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzkyND
-AxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5
-ODExOTc3NV19
+eyJoaXN0b3J5IjpbLTIxNDMyODczNjgsLTEyMTQ1NzgzMzksLT
+UyMDk4MTg3MCwxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMy
+MjczNjUsMjkxMTY3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5Nj
+EsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgw
+NTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyOD
+A3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIx
+NDQ3MTUwM119
 -->
