@@ -121,7 +121,7 @@ Practice creating a questionnaire containing five questions.
 
 Practice creating a booking form with phone number to be contacted.
 
-* Add a new Contact Form
+* Add 
 
 ## Assessment
 
@@ -344,10 +344,10 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDA5NDUzMywtNTk2MjQ4NzUxLC04MD
-U5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIwMjgw
-NzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4MywyMT
-Q0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYxMTQw
-MzYzNSwxNzU1NzA5MTkzLDE3NjQzMDI3MTAsLTEyMDk2MjMyOF
-19
+eyJoaXN0b3J5IjpbMTY0NDEwOTYwMiwxNzUwMDk0NTMzLC01OT
+YyNDg3NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1
+MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMT
+Q4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMw
+ODA0LC0xNjExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMC
+wtMTIwOTYyMzI4XX0=
 -->
