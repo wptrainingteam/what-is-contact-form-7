@@ -107,7 +107,7 @@ Practice creating a form with the Contact Form 7 plugin.
 	* Name
 	* Email address
 
-**Create a questionnaire**
+**Creating a questionnaire**
 
 Practice creating a questionnaire containing five questions with the Contact Form 7 plugin.
 
@@ -338,9 +338,9 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOT
-k0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3Nzgz
-NDksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtND
-EwOTMwODA0LC0xNjExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMw
-MjcxMCwtMTIwOTYyMzI4XX0=
+eyJoaXN0b3J5IjpbLTE2ODI4NTAzNjIsLTgwNTkxMTE1OSwtMj
+EyNzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzky
+NDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMT
+g5ODExOTc3NSwtNDEwOTMwODA0LC0xNjExNDAzNjM1LDE3NTU3
+MDkxOTMsMTc2NDMwMjcxMCwtMTIwOTYyMzI4XX0=
 -->
