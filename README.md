@@ -298,13 +298,14 @@ Your Message
 [submit "Send"]
 
 ````
-3\. Save the changes. Now there's two columns to the form. [![Form with Two Columns](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
+3\. Save the changes. Now there's two columns to the form.
+[![Form with Two Columns](/images/twocolumnform5.png)](/images/twocolumnform5.png)  
 
 #### Modifying CSS
 
 And, of course, you can also prettify the form with some CSS. Open your theme's style.css in a text editor of your choice and add the following code:
-
-<pre>// Contact 7 Form
+````
+// Contact 7 Form
 
 form.wpcf7-form {
 	text-align: center;
@@ -338,7 +339,8 @@ input.wpcf7-form-control.wpcf7-submit{
 input.wpcf7-form-control.wpcf7-submit input:hover[type="button"], input:hover[type="reset"], input:hover[type="submit"], .button:hover, .entry-content .button:hover {
 	background-color: #f88888;
     float: center;
-}</pre>
+}
+````
 
 After you save the file and refresh the form it looks a bit different. [![Selection_036](https://make.wordpress.org/training/files/2015/12/Selection_036.png)](https://make.wordpress.org/training/files/2015/12/Selection_036.png)
 
@@ -350,11 +352,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMyODczNjgsLTEyMTQ1NzgzMzksLT
-UyMDk4MTg3MCwxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMy
-MjczNjUsMjkxMTY3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5Nj
-EsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgw
-NTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyOD
-A3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIx
-NDQ3MTUwM119
+eyJoaXN0b3J5IjpbMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OCwtNT
+IwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEyMzIy
+NzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MS
+wtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1
+OTExMTU5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MD
+czLDE2MjM3OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0
+NDcxNTAzXX0=
 -->
