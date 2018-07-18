@@ -253,15 +253,14 @@ Let's see how the form will look if we edit some HTML and modify our form to be 
 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
 2\. Alter the code to look like this:
 
-``
+````
+<table>
 
-\<table>
+<tbody>
 
-\<tbody>
+<tr>
 
-\<tr>
-
-\<td>
+<td>
 
 Your Name (required)  
 
@@ -271,9 +270,9 @@ Your Phone Number
 
  [tel* your-phone "123-456-7890"]
 
-\</td>
+</td>
 
-\<td>
+<td>
 
 Select the time we should call you:  
 
@@ -283,13 +282,13 @@ Subject
 
  [text your-subject]
 
-\</td>
+</td>
 
-\</tr>
+</tr>
 
-\</tbody>
+</tbody>
 
-\</table>
+</table>
 
 
 Your Message  
@@ -298,8 +297,7 @@ Your Message
 
 [submit "Send"]
 
-\</pre>
-``
+````
 3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
 
 #### Modifying CSS
@@ -352,11 +350,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDk4MTg3MCwtMzA1NDk4NDQ1LDE5ND
-UxNDQzNTMsLTkzNTE3MTI5NSwtMjEyMzIyNzM2NSwyOTExNjc2
-MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LD
-E1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3
-MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3OTI0MD
-EsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC0xODk4
-MTE5Nzc1XX0=
+eyJoaXN0b3J5IjpbLTIxMDM5NjkyNDQsLTUyMDk4MTg3MCwxOT
+Q1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkxMTY3
+NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OTE1OS
+wxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwtMjEy
+NzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzkyND
+AxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5
+ODExOTc3NV19
 -->
