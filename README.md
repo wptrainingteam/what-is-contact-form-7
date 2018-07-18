@@ -342,7 +342,8 @@ input.wpcf7-form-control.wpcf7-submit input:hover[type="button"], input:hover[ty
 }
 ````
 
-After you save the file and refresh the form it looks a bit different. [![Selection_036](https://make.wordpress.org/training/files/2015/12/Selection_036.png)](https://make.wordpress.org/training/files/2015/12/Selection_036.png)
+After you save the file and refresh the form it looks a bit different.
+[![CSS Customization](/images/csscustomization.png)](https://make.wordpress.org/training/files/2015/12/Selection_036.png)
 
 ### Summary
 
@@ -352,11 +353,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk5Njc1ODcsMTYwMDQ5OTgyMSwtMj
-E0MzI4NzM2OCwtNTIwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3
-MTI5NSwtMjEyMzIyNzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NC
-wtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5
-NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4NDg3LDE5OTQ3OD
-UyMDEsMTMyMDI4MDczLDE2MjM3OTI0MDEsMTEzNjc3ODM0OSwx
-NDgxNDcwODNdfQ==
+eyJoaXN0b3J5IjpbNDQ3NjEzNTc0LC0xNjc5OTY3NTg3LDE2MD
+A0OTk4MjEsLTIxNDMyODczNjgsLTUyMDk4MTg3MCwxOTQ1MTQ0
+MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkxMTY3NjMwLD
+E1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OTE1OSwxNTI5
+NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwtMjEyNzM2OD
+Q4NywxOTk0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDEx
+MzY3NzgzNDldfQ==
 -->
