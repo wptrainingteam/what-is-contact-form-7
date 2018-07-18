@@ -255,7 +255,6 @@ Let's see how the form will look if we edit some HTML and modify our form to be 
 
 ``
 \<pre>
-
 \<table>
 
 \<tbody>
@@ -353,11 +352,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTE0NDM1MywtOTM1MTcxMjk1LC0yMT
-IzMjI3MzY1LDI5MTE2NzYzMCwxNTE1NDY2MTg0LC0xMTgxODE2
-OTYxLC03MDU5NDkxNTksMTUyOTQ1NTM2NiwtNTk2MjQ4NzUxLC
-04MDU5MTExNTksLTIxMjczNjg0ODcsMTk5NDc4NTIwMSwxMzIw
-MjgwNzMsMTYyMzc5MjQwMSwxMTM2Nzc4MzQ5LDE0ODE0NzA4My
-wyMTQ0NzE1MDMsLTE4OTgxMTk3NzUsLTQxMDkzMDgwNCwtMTYx
-MTQwMzYzNV19
+eyJoaXN0b3J5IjpbLTMwNTQ5ODQ0NSwxOTQ1MTQ0MzUzLC05Mz
+UxNzEyOTUsLTIxMjMyMjczNjUsMjkxMTY3NjMwLDE1MTU0NjYx
+ODQsLTExODE4MTY5NjEsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC
+01OTYyNDg3NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0
+Nzg1MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzND
+ksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEw
+OTMwODA0XX0=
 -->
