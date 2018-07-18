@@ -236,18 +236,12 @@ Tags in Contact Form 7 allows you to design and customize your form. You can set
 
 [![Syntax of Form Tags](/images/formtagsyntax.png)](/images/formtagsyntax.png)
 
-*   [**text*** your-name 20/40 id:foobar "Enter your name"] - field type
-*   [text***** your-name 20/40 id:foobar "Enter your name"] - an indicator of whether or not the field is required
-*   [text* **your-name **20/40 id:foobar "Enter your name"] - tag name further used in your mail template - i.e. in this case the value user puts in will replace all the occurrences of "your-name" in the mail you'll receive
-*   [text* your-name** 20/40 id:foobar** "Enter your name"] - options are optional specifications of appearance and behavior
-*   [text* your-name 20/40 id:foobar **"Enter your name"**] - values which are mostly used for specifying default values
-
 Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
 
 *   _text, email, textarea_ - for text fields
 *   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
 *   _file_ - for file uploading and attachment
-*   _captchac, captchar_ for captcha
+*   _captchac, captchar_ for reCAPTC
 *   _quiz_ for quiz
 *   _acceptance_ for acceptance checkbox
 *   _submit_ for submit button.
@@ -356,11 +350,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMTY3NjMwLDE1MTU0NjYxODQsLTExOD
-E4MTY5NjEsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OTYyNDg3
-NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1MjAxLD
-EzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3
-MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMwODA0LC
-0xNjExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMCwtMTIw
-OTYyMzI4XX0=
+eyJoaXN0b3J5IjpbLTk5MDUwMDg3NiwyOTExNjc2MzAsMTUxNT
+Q2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUz
+NjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC0yMTI3MzY4NDg3LD
+E5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3OTI0MDEsMTEzNjc3
+ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC0xODk4MTE5Nzc1LC
+00MTA5MzA4MDQsLTE2MTE0MDM2MzUsMTc1NTcwOTE5MywxNzY0
+MzAyNzEwXX0=
 -->
