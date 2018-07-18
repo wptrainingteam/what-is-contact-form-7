@@ -236,7 +236,7 @@ Tags in Contact Form 7 allows you to design and customize your form. You can set
 
 [![Syntax of Form Tags](/images/formtagsyntax.png)](/images/formtagsyntax.png)
 
-Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
+Note that order of those parts is important. Here is a list of most commonly used tags that can be used in your forms:
 
 *   _text, email, textarea_ - for text fields
 *   _checkbox, radio, select_ - for checkboxes, radio buttons and drop-down menu
@@ -248,7 +248,10 @@ Note that order of those parts is important. Here is a list of all the tags that
 
 #### Modifying HTML
 
-Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 2. Alter the code to look like this:
+Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 
+
+1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
+2\. Alter the code to look like this:
 
 <pre>**
 
@@ -350,7 +353,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjc0MDY0NywtMjEyMzIyNzM2NSwyOT
+eyJoaXN0b3J5IjpbMTU4NTQ2NjU1NywtMjEyMzIyNzM2NSwyOT
 ExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5
 MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC
 0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3
