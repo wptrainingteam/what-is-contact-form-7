@@ -253,13 +253,14 @@ Let's see how the form will look if we edit some HTML and modify our form to be 
 1\. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
 2\. Alter the code to look like this:
 
-<pre>**
+``
+\<pre>
 
-<table>
+\<table>
 
-<tbody>
+\<tbody>
 
-<tr>
+\<tr>
 
 <td>
 
@@ -291,7 +292,6 @@ Subject
 
 </table>
 
-**
 
 Your Message  
 
@@ -300,7 +300,7 @@ Your Message
 [submit "Send"]
 
 </pre>
-
+``
 3\. Save the changes. Now there's two columns to the form. [![Selection_035](https://make.wordpress.org/training/files/2015/12/Selection_035.png)](https://make.wordpress.org/training/files/2015/12/Selection_035.png)  
 
 #### Modifying CSS
@@ -353,7 +353,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTQ2NjU1NywtMjEyMzIyNzM2NSwyOT
+eyJoaXN0b3J5IjpbLTk3NDMzMzIxNSwtMjEyMzIyNzM2NSwyOT
 ExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5
 MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC
 0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3
