@@ -224,7 +224,7 @@ You can also check the Mail (2) template checkbox and edit the template of what 
 
 4\. Save the changes.
 
-5.\
+5\. Add the form to a page.
 
 5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
 
@@ -355,7 +355,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE4MTY5NjEsLTYxNDg3OTUzMiwtNz
+eyJoaXN0b3J5IjpbMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNz
 A1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTEx
 MTU5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLD
 E2MjM3OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcx
