@@ -239,7 +239,7 @@ Tags in Contact Form 7 allows you to design and customize your form. You can set
 Note that order of those parts is important. Here is a list of all the tags that can be used in your forms:
 
 *   _text, email, textarea_ - for text fields
-*   _checkbox, radio, select_ - for checkboxes, radio buttons and menus
+*   _checkbox, radio, select_ - for checkboxes, radio buttons and drop-down menu
 *   _file_ - for file uploading and attachment
 *   _captchac, captchar_ for reCAPTCHA
 *   _quiz_ for quiz
@@ -350,11 +350,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMyMjczNjUsLTk5MDUwMDg3NiwyOT
-ExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1OTQ5
-MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTExMTU5LC
-0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLDE2MjM3
-OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcxNTAzLC
-0xODk4MTE5Nzc1LC00MTA5MzA4MDQsLTE2MTE0MDM2MzUsMTc1
-NTcwOTE5M119
+eyJoaXN0b3J5IjpbNDAwNTIyMjAsLTIxMjMyMjczNjUsMjkxMT
+Y3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OTE1
+OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwtMj
+EyNzM2ODQ4NywxOTk0Nzg1MjAxLDEzMjAyODA3MywxNjIzNzky
+NDAxLDExMzY3NzgzNDksMTQ4MTQ3MDgzLDIxNDQ3MTUwMywtMT
+g5ODExOTc3NSwtNDEwOTMwODA0LC0xNjExNDAzNjM1LDE3NTU3
+MDkxOTNdfQ==
 -->
