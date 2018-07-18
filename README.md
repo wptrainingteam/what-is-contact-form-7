@@ -312,7 +312,7 @@ form.wpcf7-form {
 }
 
 input#formname, #subject, #message {
-	width:75%%;
+	width:75%;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
@@ -338,7 +338,6 @@ input.wpcf7-form-control.wpcf7-submit{
 
 input.wpcf7-form-control.wpcf7-submit input:hover[type="button"], input:hover[type="reset"], input:hover[type="submit"], .button:hover, .entry-content .button:hover {
 	background-color: #f88888;
-    float: center;
 }
 ````
 
@@ -353,7 +352,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDIwNjc0OSw0NDc2MTM1NzQsLTE2Nz
+eyJoaXN0b3J5IjpbMjA5NzM2NzQ2LC00MTAyMDY3NDksLTE2Nz
 k5Njc1ODcsMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OCwtNTIwOTgx
 ODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEyMzIyNzM2NS
 wyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNzA1
