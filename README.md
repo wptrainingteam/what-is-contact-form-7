@@ -226,7 +226,8 @@ You can also check the Mail (2) template checkbox and edit the template of what 
 
 5\. Add the form to a page.
 
-5\. Check out the resulting form. [![Selection_034](https://make.wordpress.org/training/files/2015/12/Selection_034.png)](https://make.wordpress.org/training/files/2015/12/Selection_034.png)
+5\. Check out the resulting form. 
+[![Preview Contact Form 2](/images/previewcontactform2.png)](/images/previewcontactform2.png)
 
 
 #### Using Tags
@@ -355,11 +356,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTQ2NjE4NCwtMTE4MTgxNjk2MSwtNz
-A1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwtODA1OTEx
-MTU5LC0yMTI3MzY4NDg3LDE5OTQ3ODUyMDEsMTMyMDI4MDczLD
-E2MjM3OTI0MDEsMTEzNjc3ODM0OSwxNDgxNDcwODMsMjE0NDcx
-NTAzLC0xODk4MTE5Nzc1LC00MTA5MzA4MDQsLTE2MTE0MDM2Mz
-UsMTc1NTcwOTE5MywxNzY0MzAyNzEwLC0xMjA5NjIzMjhdfQ==
-
+eyJoaXN0b3J5IjpbMjkxMTY3NjMwLDE1MTU0NjYxODQsLTExOD
+E4MTY5NjEsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OTYyNDg3
+NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1MjAxLD
+EzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMTQ4MTQ3
+MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMwODA0LC
+0xNjExNDAzNjM1LDE3NTU3MDkxOTMsMTc2NDMwMjcxMCwtMTIw
+OTYyMzI4XX0=
 -->
