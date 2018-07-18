@@ -121,7 +121,12 @@ Practice creating a questionnaire containing five questions.
 
 Practice creating a booking form with phone number to be contacted.
 
-* Add 
+* Add new contact form using Contact Form 7
+* Design a booking form with below fields
+	* Your Name (mandatory)
+	* Your Email (mandatory)
+	* Your Phone Number (mandatory, with format of "123-456-7890")
+	* Booking Time 
 
 ## Assessment
 
@@ -344,7 +349,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDEwOTYwMiwxNzUwMDk0NTMzLC01OT
+eyJoaXN0b3J5IjpbLTQyNzQ4MjAyNywxNjQ0MTA5NjAyLC01OT
 YyNDg3NTEsLTgwNTkxMTE1OSwtMjEyNzM2ODQ4NywxOTk0Nzg1
 MjAxLDEzMjAyODA3MywxNjIzNzkyNDAxLDExMzY3NzgzNDksMT
 Q4MTQ3MDgzLDIxNDQ3MTUwMywtMTg5ODExOTc3NSwtNDEwOTMw
