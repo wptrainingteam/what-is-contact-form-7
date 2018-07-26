@@ -75,20 +75,8 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Have You Thought About...?
 
-* CWhallenge 1
-* Challenge 2
-
-> What could present if a participant doesn't challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
->
-> _For example:_
->
-> *  What if there’s no internet available?
-> *  What if there’s no projector available?
-> * ve a WordPress site to work with?
 * What if a participant owns a WordPress.com site that doesn't allow to install a plugin?
 * What if a participant doesn’t has a's WordPress site to work with?
-> *  What if there aren’t enough computers for everyone?
-> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?is inaccessible?
 * What if there's no internet available?
 * What if a participant doesn't own a computer?
 
@@ -359,7 +347,7 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODMxNzk1MywtMzA3NzYyMjc4LC0xMj
+eyJoaXN0b3J5IjpbLTE2NDg2NjA3NCwtMzA3NzYyMjc4LC0xMj
 c3ODI1MjY0LDE1Mjk1NTYwNjMsMjA5NzM2NzQ2LC00MTAyMDY3
 NDksLTE2Nzk5Njc1ODcsMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OC
 wtNTIwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEy
