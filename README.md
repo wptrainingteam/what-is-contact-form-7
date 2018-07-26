@@ -1,6 +1,5 @@
 # What Is Contact Form 7
-> To Do
-> * "Have you thought about" section. Need input on what to write.
+
 ## Description
 
 Contact Form 7 is an easy-to-use plugin to create and add a contact form to your WordPress website. In this lesson, you will learn how to prepare and install the plugin and create and customize your first form, as well as setting up notifications to yourself and the form submitter.
@@ -347,11 +346,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg2NjA3NCwtMzA3NzYyMjc4LC0xMj
-c3ODI1MjY0LDE1Mjk1NTYwNjMsMjA5NzM2NzQ2LC00MTAyMDY3
-NDksLTE2Nzk5Njc1ODcsMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OC
-wtNTIwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEy
-MzIyNzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNj
-k2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwt
-ODA1OTExMTU5XX0=
+eyJoaXN0b3J5IjpbLTExMjg2MDE2NTMsLTMwNzc2MjI3OCwtMT
+I3NzgyNTI2NCwxNTI5NTU2MDYzLDIwOTczNjc0NiwtNDEwMjA2
+NzQ5LC0xNjc5OTY3NTg3LDE2MDA0OTk4MjEsLTIxNDMyODczNj
+gsLTUyMDk4MTg3MCwxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIx
+MjMyMjczNjUsMjkxMTY3NjMwLDE1MTU0NjYxODQsLTExODE4MT
+Y5NjEsLTcwNTk0OTE1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEs
+LTgwNTkxMTE1OV19
 -->
