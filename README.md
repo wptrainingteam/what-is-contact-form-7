@@ -75,18 +75,24 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Have You Thought About...?
 
-* Challenge 1
+* CWhallenge 1
 * Challenge 2
 
-> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+> What could present if a participant doesn't challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
 >
 > _For example:_
 >
 > *  What if there’s no internet available?
 > *  What if there’s no projector available?
-> *  What if a participant doesn’t has a WordPress site to work with?
+> * ve a WordPress site to work with?
+* What if a participant owns a WordPress.com site that doesn't allow to install a plugin?
+* What if a participant doesn’t has a's WordPress site to work with?
 > *  What if there aren’t enough computers for everyone?
-> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?is inaccessible?
+* What if there's no internet available?
+* What if a participant doesn't own a computer?
+
+
 
 ## Lesson Overview
 
@@ -353,11 +359,11 @@ Well done! You have successfully added a new contact form to your website. Now y
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzc2MjI3OCwtMTI3NzgyNTI2NCwxNT
-I5NTU2MDYzLDIwOTczNjc0NiwtNDEwMjA2NzQ5LC0xNjc5OTY3
-NTg3LDE2MDA0OTk4MjEsLTIxNDMyODczNjgsLTUyMDk4MTg3MC
-wxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkx
-MTY3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OT
-E1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwt
-MjEyNzM2ODQ4N119
+eyJoaXN0b3J5IjpbLTc1ODMxNzk1MywtMzA3NzYyMjc4LC0xMj
+c3ODI1MjY0LDE1Mjk1NTYwNjMsMjA5NzM2NzQ2LC00MTAyMDY3
+NDksLTE2Nzk5Njc1ODcsMTYwMDQ5OTgyMSwtMjE0MzI4NzM2OC
+wtNTIwOTgxODcwLDE5NDUxNDQzNTMsLTkzNTE3MTI5NSwtMjEy
+MzIyNzM2NSwyOTExNjc2MzAsMTUxNTQ2NjE4NCwtMTE4MTgxNj
+k2MSwtNzA1OTQ5MTU5LDE1Mjk0NTUzNjYsLTU5NjI0ODc1MSwt
+ODA1OTExMTU5XX0=
 -->
