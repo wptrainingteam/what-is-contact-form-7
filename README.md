@@ -1,6 +1,5 @@
 # What Is Contact Form 7
-> To Do
-> * "Have you thought about" section. Need input on what to write.
+
 ## Description
 
 Contact Form 7 is an easy-to-use plugin to create and add a contact form to your WordPress website. In this lesson, you will learn how to prepare and install the plugin and create and customize your first form, as well as setting up notifications to yourself and the form submitter.
@@ -75,18 +74,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Have You Thought About...?
 
-* Challenge 1
-* Challenge 2
-
-> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
->
-> _For example:_
->
-> *  What if there’s no internet available?
-> *  What if there’s no projector available?
-> *  What if a participant doesn’t has a WordPress site to work with?
-> *  What if there aren’t enough computers for everyone?
-> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+* No challenges identified
 
 ## Lesson Overview
 
@@ -94,7 +82,6 @@ Participants will get the most from this lesson if they have familiarity with:
 * Demonstrate how to add a contact form to a page
 * Demonstrate how to customize a contact form
 * Practice exercises to have participants add a customized contact form to a post
-
 
 ## Exercises
 
@@ -146,9 +133,9 @@ Correct answer: 2. [textarea your-message 40x2]
 1.  !
 2.  /
 3.  &
-4.  *
+4.  \*
 
-Correct answer: 4.*
+Correct answer: 4. \*
 
 ## Additional Resources
 
@@ -173,9 +160,11 @@ Contact Form 7 is a user-friendly plugin for adding forms to your site, and thes
 Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
 
 1\. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
+
 [![Install Contact Form 7](images/installcontactform7.PNG)](images/installcontactform7.PNG)
 
 2\. By default, when you first install Contact Form 7 on your site, it will create a simple Contact Form for you. This can be accessed by clicking on **Contact** on the left-side menu, and then **Contact Forms**, which will bring up a list of all forms created with this plugin on your site.
+
 [![Default Contact Form](images/defaultcontactform.png)](images/defaultcontactform.png)
 
 The default form contains the following fields:
@@ -185,7 +174,9 @@ The default form contains the following fields:
 *   Subject
 *   Your Message
 
-You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. [![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
+You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. 
+
+[![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
 
 3\. Copy the shortcode, and paste into a new post to test it out. It also could be a good idea to use it for pages and widgets.
 
@@ -215,9 +206,8 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 > ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
 
+3\. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
 
-
-3\. 		Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
 [![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png) 
 
 You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their inputs from the form.
@@ -227,8 +217,8 @@ You can also check the Mail (2) template checkbox and edit the template of what 
 5\. Add the form to a page.
 
 6\. Check out the resulting form. 
-[![Preview Contact Form 2](/images/previewcontactform2.png)](/images/previewcontactform2.png)
 
+[![Preview Contact Form 2](/images/previewcontactform2.png)](/images/previewcontactform2.png)
 
 #### Using Tags
 
@@ -299,12 +289,15 @@ Your Message
 [submit "Send"]
 
 ````
+
 3\. Save the changes. Now there's two columns to the form.
+
 [![Form with Two Columns](/images/twocolumnform.png)](/images/twocolumnform.png)  
 
 #### Modifying CSS
 
 And, of course, you can also prettify the form with some CSS. Open your theme's style.css in a text editor of your choice and add the following code:
+
 ````
 /** Contact 7 Form **/
 
@@ -343,6 +336,7 @@ input.wpcf7-form-control.wpcf7-submit input:hover[type="button"], input:hover[ty
 ````
 
 After you save the file and refresh the form it looks a bit different.
+
 [![CSS Customization](/images/csscustomization.png)](/images/csscustomization.png)
 
 ### Summary
@@ -352,12 +346,3 @@ Well done! You have successfully added a new contact form to your website. Now y
 ### Lesson Wrap Up
 
 ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzc2MjI3OCwtMTI3NzgyNTI2NCwxNT
-I5NTU2MDYzLDIwOTczNjc0NiwtNDEwMjA2NzQ5LC0xNjc5OTY3
-NTg3LDE2MDA0OTk4MjEsLTIxNDMyODczNjgsLTUyMDk4MTg3MC
-wxOTQ1MTQ0MzUzLC05MzUxNzEyOTUsLTIxMjMyMjczNjUsMjkx
-MTY3NjMwLDE1MTU0NjYxODQsLTExODE4MTY5NjEsLTcwNTk0OT
-E1OSwxNTI5NDU1MzY2LC01OTYyNDg3NTEsLTgwNTkxMTE1OSwt
-MjEyNzM2ODQ4N119
--->
