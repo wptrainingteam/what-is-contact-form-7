@@ -74,7 +74,10 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Have You Thought About...?
 
-* No challenges identified
+* What if a participant owns a WordPress.com site that doesn't allow to install a plugin?
+* What if a participant doesn’t has a's WordPress site to work with?
+* What if there's no internet available?
+* What if a participant doesn't own a computer?
 
 ## Lesson Overview
 
