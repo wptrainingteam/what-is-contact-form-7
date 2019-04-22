@@ -18,7 +18,7 @@ Who is this lesson intended for? What interests/skills would they bring? Choose 
 
 * [X] Users
 * [X] Designers
-* [ ] Developers
+* [X] Developers
 * [ ] Speakers
 * [ ] All
 
