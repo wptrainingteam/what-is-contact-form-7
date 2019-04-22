@@ -53,8 +53,8 @@ How long will it take to teach this lesson (in minutes)?
 
 Participants will get the most from this lesson if they have familiarity with:
 
-*   Ability to [install a plugin](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/) from the WordPress.org repository
-*   Ability to [create and edit pages](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/) on your WordPress website
+*   Ability to [install a plugin](https://github.com/wptrainingteam/choosing-and-installing-plugins) from the WordPress.org repository
+*   Ability to [create and edit pages](https://github.com/wptrainingteam/pages-versus-posts) on your WordPress website
 
 ## Readiness Questions
 
