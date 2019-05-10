@@ -194,7 +194,7 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 #### Modifying Form Fields
 
-1. Go to **Contact** > **Contact Forms** and select to **Edit** our form.
+1. Go to **Contact** > **Contact Forms** and select to **Edit** your form.
 
 ![Edit Contact Form](/images/editcontactform2.png)
 
