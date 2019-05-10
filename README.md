@@ -244,7 +244,7 @@ Note that order of those parts is important. Here is a list of most commonly use
 
 Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code.
 
-1. Go to **Contact** > **Contact Forms** and select to **Edit** our form again.
+1. Go to **Contact** > **Contact Forms** and select to **Edit** your form again.
 
 2. Alter the code to look like this:
 
