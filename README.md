@@ -142,7 +142,7 @@ Practice creating a booking form with phone number to be contacted.
 
 **Which option can we use to wrap each checkbox and radio button with <label> tag?**
 	
-1. <lable>
+1. lable
 2. free_text
 3. use_label_element
 4. buton_lable
