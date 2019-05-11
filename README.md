@@ -139,6 +139,17 @@ Practice creating a booking form with phone number to be contacted.
 
 **Answer:** 4. \*
 
+
+**Which option can we use to wrap each checkbox and radio button with <label> tag?**
+	
+1. <lable>
+2. free_text
+3. use_label_element
+4. buton_lable
+	
+**Answer:** 3. use_label_element
+	
+
 ## Additional Resources
 
 * [Getting Started with Contact Form 7](http://contactform7.com/getting-started-with-contact-form-7/)
