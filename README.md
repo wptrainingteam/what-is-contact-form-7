@@ -177,7 +177,7 @@ Contact Form 7 is a user-friendly plugin for adding forms to your site, and thes
 
 Let's try using the default form in Contact Form 7 to add a simple contact form to a post.
 
-1. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [store](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
+1. Install Contact Form 7 using the <span style="color: #ff0000">WordPress plugin [directory](https://wordpress.org/plugins/search.php?type=term&q=contact+form+7)</span> and activate it.
 
 [![Install Contact Form 7](images/installcontactform7.PNG)](images/installcontactform7.PNG)
 
@@ -192,7 +192,7 @@ The default form contains the following fields:
 * Subject
 * Your Message
 
-You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name. 
+You can insert this form immediately into any page or post on your site by using the shortcode shown next to the form name.
 
 [![Edit Contact Form](images/editcontactform.png)](images/editcontactform.png)
 
@@ -210,7 +210,7 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 #### Modifying Form Fields
 
-1. Go to **Contact** > **Contact Forms** and select to **Edit** our form. 
+1. Go to **Contact** > **Contact Forms** and select to **Edit** your form.
 
 ![Edit Contact Form](/images/editcontactform2.png)
 
@@ -218,17 +218,17 @@ You can further customize your form to look more stylish by using HTML or CSS. Y
 
 ![Add Tags](/images/addtags.png)
 
-Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. The tags can be added by clicking on the tags button when editing the form or by typing the codes directly into the editing area. Generated tags can be edited to suit various requirements as well. 
+Tags are codes representing elements of the form, for example [text your-subject] or [text* your-name]. The tags can be added by clicking on the tags button when editing the form or by typing the codes directly into the editing area. Generated tags can be edited to suit various requirements as well.
 
 ![Generate Tag](/images/generatetag.PNG)
 
 The basic parts that compose a tag can be found in [Using Tags](#using-tags) section.
 
-> ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/). 
+> ![https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) There are also some options available if you want to validate your data input for it to fit some requirements, i.e. phone number format, by using [Jquery Validation For Contact Form 7](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/).
 
-3. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included. 
+3. Don't forget to modify the email that you will be receiving then someone fills in your form to include the new fields. Make sure the fields you want to see there are included.
 
-[![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png) 
+[![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png)
 
 You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their inputs from the form.
 
@@ -236,7 +236,7 @@ You can also check the Mail (2) template checkbox and edit the template of what 
 
 5. Add the form to a page.
 
-6. Check out the resulting form. 
+6. Check out the resulting form.
 
 [![Preview Contact Form 2](/images/previewcontactform2.png)](/images/previewcontactform2.png)
 
@@ -258,9 +258,9 @@ Note that order of those parts is important. Here is a list of most commonly use
 
 #### Modifying HTML
 
-Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code. 
+Let's see how the form will look if we edit some HTML and modify our form to be composed out of two columns. We can combine HTML with the tag code.
 
-1. Go to **Contact** > **Contact Forms** and select to **Edit** our form again. 
+1. Go to **Contact** > **Contact Forms** and select to **Edit** your form again.
 
 2. Alter the code to look like this:
 
@@ -270,24 +270,24 @@ Let's see how the form will look if we edit some HTML and modify our form to be 
 	<tbody>
 		<tr>
 			<td>
-				Your Name (required)  
+				Your Name (required)
 				[text* your-name]
 
-				Your Phone Number  
+				Your Phone Number
 				[tel* your-phone "123-456-7890"]
 			</td>
 			<td>
-				Select the time we should call you:  
+				Select the time we should call you:
 				[select time-to-call "Business hours" "Evening" "Morning" "As soon as possible"]
 
-				Subject  
+				Subject
 				[text your-subject]
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-Your Message  
+Your Message
 [textarea your-message 40x2]
 
 [submit "Send"]
@@ -296,7 +296,7 @@ Your Message
 
 3. Save the changes. Now there's two columns to the form.
 
-[![Form with Two Columns](/images/twocolumnform.png)](/images/twocolumnform.png)  
+[![Form with Two Columns](/images/twocolumnform.png)](/images/twocolumnform.png)
 
 #### Modifying CSS
 
