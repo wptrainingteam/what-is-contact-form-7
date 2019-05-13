@@ -139,6 +139,15 @@ Practice creating a booking form with phone number to be contacted.
 
 **Answer:** 4. \*
 
+**Which option can we use to wrap each checkbox and radio button with <label> tag?**
+	
+1. label
+2. free_text
+3. use_label_element
+4. buton_label
+	
+**Answer:** 3. use_label_element
+	
 **How can I embed a contact form into my template file?**
 
 1. [contact-form-7 id="1234" title="Contact form 1"]
