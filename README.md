@@ -139,6 +139,13 @@ Practice creating a booking form with phone number to be contacted.
 
 **Answer:** 4. \*
 
+**How can I embed a contact form into my template file?**
+
+1. [contact-form-7 id="1234" title="Contact form 1"]
+2. <?php echo [contact-form-7 id="1234" title="Contact form 1"]; ?>
+3. <?php echo do_shortcode( '[contact-form-7 id="1234" title="Contact form 1"]' ); ?>
+**Answer:** 3. <?php echo do_shortcode( '[contact-form-7 id="1234" title="Contact form 1"]' ); ?>
+
 ## Additional Resources
 
 * [Getting Started with Contact Form 7](http://contactform7.com/getting-started-with-contact-form-7/)
