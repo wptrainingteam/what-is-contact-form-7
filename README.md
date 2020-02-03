@@ -230,7 +230,7 @@ The basic parts that compose a tag can be found in [Using Tags](#using-tags) sec
 
 [![Mail Template](/images/mailtemplate.png)](/images/mailtemplate.png)
 
-You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgement to the person who submitted the form to let them know you have received their inputs from the form.
+You can also check the Mail (2) template checkbox and edit the template of what someone who fills in a contact form will receive. It'll be called as auto-responder. This is useful to send acknowledgment to the person who submitted the form to let them know you have received their inputs from the form.
 
 4. Save the changes.
 
